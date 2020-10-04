@@ -1,0 +1,9 @@
+*, *::before, *::after {
+    font-family: 'Caveat', cursive;
+    font-family: 'Permanent Marker', cursive;
+    font-family: 'Quicksand', sans-serif;
+}
+
+body {
+    background-color: aliceblue;
+}
